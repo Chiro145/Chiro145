@@ -36,3 +36,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
+
+<audio src="horse.ogg" controls="controls">
+Your browser does not support the audio element.
+</audio>
