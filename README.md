@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Chiro145&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Chiro145" width="100%"/>
+      <img src="https://github.com/Chiro145/Chiro145/blob/main/api.svg" alt="Chiro145" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
