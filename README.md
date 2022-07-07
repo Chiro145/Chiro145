@@ -36,3 +36,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/vietnhatthai/vietnhatthai/output/github-contribution-grid-snake.svg)
