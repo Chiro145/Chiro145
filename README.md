@@ -38,5 +38,9 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
 
 <audio src="https://github.com/Chiro145/Radio-Lofi/blob/main/music/music01.mp3" controls="controls">
+<audio controls autoplay muted>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
+</audio>
 </audio>
