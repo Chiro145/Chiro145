@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++, C#
 - 💞️ I’m looking to collaborate on UET
 - 📫 How to reach me ...
-![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
 <!---
 Chiro145/Chiro145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,3 +35,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
+
+![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
