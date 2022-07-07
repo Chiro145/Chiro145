@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td>
       <p align="center"> 
-        <img src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://github-readme-streak-stats.herokuapp.com/?user=Chiro145&theme=radical&hide_border=false)" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://github-readme-streak-stats.herokuapp.com/?user=Chiro145&theme=radical&hide_border=false)" alt="Chiro145" width="100%"/>
       </p>
     </td>
   </tr>
