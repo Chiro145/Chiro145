@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chiro145
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning C++, C#
+- 💞️ I’m looking to collaborate on UET
 - 📫 How to reach me ...
 
 <!---
