@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td>
       <p align="center"> 
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Chiro145" width="100%"/>
+        <img src="https://github.com/Chiro145/Chiro145/blob/main/bg.png" alt="Chiro145" width="100%"/>
       </p>
     </td>
   </tr>
