@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A Student</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Quy Don High School for the Gifted](http://thptchuyenlequydon.quangtri.edu.vn) (LQĐ).
 
