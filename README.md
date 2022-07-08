@@ -47,6 +47,6 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
 
 <audio controls autoplay muted>
-  <source src="BM/Tune.mp3" type="audio/mpeg">
+  <source src="BM\Tune.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
