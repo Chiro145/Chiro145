@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td>
       
-      <img src="https://github.com/Chiro145/Chiro145/blob/main/api.svg" alt="Chiro145" width="100%"/>
-      <img src="https://github.com/Chiro145/Chiro145/blob/main/download.svg" alt="Chiro145" width="100%"/>
+      <img src="[https://github.com/Chiro145/Chiro145/blob/main/api.svg](https://github.com/Chiro145/Chiro145/blob/main/api.svg)" alt="Chiro145" width="100%"/>
+      <img src="[https://github.com/Chiro145/Chiro145/blob/main/download.svg](https://github.com/Chiro145/Chiro145/blob/main/api.svg)" alt="Chiro145" width="100%"/>
     </td>
   </tr>
 </table>
