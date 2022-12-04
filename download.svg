@@ -13,14 +13,14 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fe428e;
+            fill: #fff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
             /* Selector detects Firefox */
             .header { font-size: 15.5px; }
           }
-          .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
+          .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }
 
           
     /* Animations */
@@ -54,7 +54,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="349"
-          fill="#141321"
+          fill="#151515"
           stroke-opacity="1"
         />
 
@@ -90,27 +90,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="289.42"
+          width="201.78"
           height="8"
-          fill="#f1e05a"
+          fill="#3572A5"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="289.42"
+          x="201.78"
           y="0"
-          width="14.04"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="293.46000000000004"
-          y="0"
-          width="13.59"
+          width="59.34"
           height="8"
           fill="#E3F171"
         />
@@ -118,41 +108,51 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="297.05"
+          x="261.12"
           y="0"
-          width="12.94"
+          width="22.69"
           height="8"
           fill="#563d7c"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="283.81"
+          y="0"
+          width="16.19"
+          height="8"
+          fill="#e34c26"
         />
       
 
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g>
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 96.47%
+        Python 67.26%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g>
+      <circle cx="5" cy="6" r="5" fill="#E3F171" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Pascal 19.78%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g>
+      <circle cx="5" cy="6" r="5" fill="#563d7c" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSS 7.56%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 1.35%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g>
-      <circle cx="5" cy="6" r="5" fill="#E3F171" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Pascal 1.20%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g>
-      <circle cx="5" cy="6" r="5" fill="#563d7c" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 0.98%
+        HTML 5.40%
       </text>
     </g>
   </g></g>
