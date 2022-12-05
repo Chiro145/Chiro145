@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - ✍ I'm a student of: [Quy Don High School for the Gifted](http://thptchuyenlequydon.quangtri.edu.vn) (LQĐ).
 
-- 🌱 I’m currently learning **C#, C++, JS, Python**
+- 🌱 I’m currently learning **C, C++, C#, JS, Python**
 
 
 ## 📫 How to reach me:
