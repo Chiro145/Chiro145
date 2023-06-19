@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chiro145&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chiro145&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiro145&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chiro145&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
