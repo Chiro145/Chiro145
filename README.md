@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <update...><br>👯 I’m looking to collaborate on <update..><br>🤝 I’m looking for help with open-source project<br>🌱 I’m currently learning C, C++, C#, ...<br>⚡ Fun fact C is the best
+🔭 I’m currently working on <update...><br>👯 I’m looking to collaborate on <update..><br>🤝 I’m looking for help with open-source project<br>🌱 I’m currently learning C, C++, C#, ...<br>⚡ Fun fact: C is the best
 
 
 ## 🌐 Socials:
