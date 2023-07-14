@@ -35,5 +35,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chiro145&icon=2&color=1)](https://visitcount.itsvg.in)
-
+![snake gif](https://github.com/Chiro145/Chiro145/blob/main/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
