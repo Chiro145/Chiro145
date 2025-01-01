@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<update...>**
 
-- 🌱 I’m currently learning **SC, C#, ...**
+- 🌱 I’m currently learning **CS, CP, ...**
 
 - 👯 I’m looking to collaborate on **<update...>**
 
